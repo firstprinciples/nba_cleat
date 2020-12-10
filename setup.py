@@ -27,7 +27,9 @@ setuptools.setup(
         'scikit-learn',
         'seaborn',
         'xlrd',
-        'tensorflow'
+        'tensorflow',
+        'tensorflow_probability',
+        'plotly'
     ],
     include_package_data=True,
     classifiers=[
